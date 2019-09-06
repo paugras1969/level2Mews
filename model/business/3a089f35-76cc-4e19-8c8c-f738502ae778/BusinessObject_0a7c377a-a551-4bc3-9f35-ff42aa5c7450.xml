@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Item Of Supply Individual"
+    id="0a7c377a-a551-4bc3-9f35-ff42aa5c7450">
+  <properties
+      key="id"
+      value="0026"/>
+  <properties
+      key="batch"
+      value="234234"/>
+</archimate:BusinessObject>

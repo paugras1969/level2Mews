@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comment"
+    id="d6cec2ba-1237-4fdd-8e3a-70887344888a">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_65e962fe-53a5-42ee-b5d8-f52b16136ab5.xml#65e962fe-53a5-42ee-b5d8-f52b16136ab5"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_aecf2bbb-44bd-4a90-8d4e-04cc75f67746.xml#aecf2bbb-44bd-4a90-8d4e-04cc75f67746"/>
+</archimate:CompositionRelationship>

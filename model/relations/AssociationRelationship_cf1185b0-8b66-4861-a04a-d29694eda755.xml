@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External File , Digital File, INdependantFile"
+    id="cf1185b0-8b66-4861-a04a-d29694eda755">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_0f880ede-da0c-4cfd-bd34-2a52e85050f1.xml#0f880ede-da0c-4cfd-bd34-2a52e85050f1"/>
+  <target
+      xsi:type="archimate:Meaning"
+      href="Meaning_acaf7cce-e1ab-4021-b914-ebc718e7759c.xml#acaf7cce-e1ab-4021-b914-ebc718e7759c"/>
+</archimate:AssociationRelationship>

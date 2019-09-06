@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A revoir "
+    id="ba6320bc-a345-4def-9ec5-663c2631b49c">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_4612498b-e28b-4d97-92b7-eea58f742f23.xml#4612498b-e28b-4d97-92b7-eea58f742f23"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_ccc9f8cf-9775-447b-8e96-05c2d49d40a2.xml#ccc9f8cf-9775-447b-8e96-05c2d49d40a2"/>
+</archimate:RealizationRelationship>

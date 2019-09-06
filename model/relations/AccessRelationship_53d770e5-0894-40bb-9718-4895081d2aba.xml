@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quantity, Color"
+    id="53d770e5-0894-40bb-9718-4895081d2aba">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_191633d3-384e-45a8-9731-84952c3756b2.xml#191633d3-384e-45a8-9731-84952c3756b2"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_c23623b9-7a3f-4f54-93e4-c70c17fa19fc.xml#c23623b9-7a3f-4f54-93e4-c70c17fa19fc"/>
+</archimate:AccessRelationship>

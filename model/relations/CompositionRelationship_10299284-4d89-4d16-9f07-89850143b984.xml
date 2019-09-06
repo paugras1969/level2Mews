@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LifeCycleStatus,Task Category, MaintenanceCategory, MaintenanceLevel"
+    id="10299284-4d89-4d16-9f07-89850143b984">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_7bbe6353-596b-4121-8210-2aec8c65010e.xml#7bbe6353-596b-4121-8210-2aec8c65010e"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_f3f22dd3-5c0b-4ea3-90c0-a5d82d3f3a2c.xml#f3f22dd3-5c0b-4ea3-90c0-a5d82d3f3a2c"/>
+</archimate:CompositionRelationship>

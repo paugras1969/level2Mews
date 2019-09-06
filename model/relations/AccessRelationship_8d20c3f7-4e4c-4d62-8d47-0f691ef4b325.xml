@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NumberOfHours, NumberOfPerson"
+    id="8d20c3f7-4e4c-4d62-8d47-0f691ef4b325">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_addaa196-5025-4262-855e-d7a5e70b1ed4.xml#addaa196-5025-4262-855e-d7a5e70b1ed4"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_798b99e2-1243-417e-be34-a1cba00ffb6f.xml#798b99e2-1243-417e-be34-a1cba00ffb6f"/>
+</archimate:AccessRelationship>

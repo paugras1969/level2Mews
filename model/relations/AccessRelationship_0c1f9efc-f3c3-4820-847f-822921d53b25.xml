@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SpaceProfile"
+    id="0c1f9efc-f3c3-4820-847f-822921d53b25">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_4b4219e2-7b76-4fc3-ade9-845d90588cf5.xml#4b4219e2-7b76-4fc3-ade9-845d90588cf5"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_2dceabf8-22bc-4532-a0dd-4bc65821ea14.xml#2dceabf8-22bc-4532-a0dd-4bc65821ea14"/>
+</archimate:AccessRelationship>

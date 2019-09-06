@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Position,PersonOrganizationHierarchy"
+    id="2c39d22c-2e6d-426a-b550-0282622f3063">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_f50fd20e-545a-4447-80df-5218459fc5b6.xml#f50fd20e-545a-4447-80df-5218459fc5b6"/>
+  <target
+      xsi:type="archimate:Meaning"
+      href="Meaning_acaf7cce-e1ab-4021-b914-ebc718e7759c.xml#acaf7cce-e1ab-4021-b914-ebc718e7759c"/>
+</archimate:AssociationRelationship>

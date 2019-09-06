@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="observation"
+    id="afb026a6-bb4d-4a70-8bcc-571d93693744">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_de3f3b55-1597-47d0-a8d8-fc88a5ada563.xml#de3f3b55-1597-47d0-a8d8-fc88a5ada563"/>
+  <target
+      xsi:type="archimate:Meaning"
+      href="Meaning_acaf7cce-e1ab-4021-b914-ebc718e7759c.xml#acaf7cce-e1ab-4021-b914-ebc718e7759c"/>
+</archimate:AssociationRelationship>

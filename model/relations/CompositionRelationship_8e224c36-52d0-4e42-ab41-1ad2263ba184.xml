@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OM_geometry"
+    id="8e224c36-52d0-4e42-ab41-1ad2263ba184">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_6592b9b6-b3b7-40de-934e-fa26f36cd623.xml#6592b9b6-b3b7-40de-934e-fa26f36cd623"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_aecf2bbb-44bd-4a90-8d4e-04cc75f67746.xml#aecf2bbb-44bd-4a90-8d4e-04cc75f67746"/>
+</archimate:CompositionRelationship>

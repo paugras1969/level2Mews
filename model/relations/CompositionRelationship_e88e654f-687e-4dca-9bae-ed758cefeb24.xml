@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DataModuleStatusConfidenseReason"
+    id="e88e654f-687e-4dca-9bae-ed758cefeb24">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_65e962fe-53a5-42ee-b5d8-f52b16136ab5.xml#65e962fe-53a5-42ee-b5d8-f52b16136ab5"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_aecf2bbb-44bd-4a90-8d4e-04cc75f67746.xml#aecf2bbb-44bd-4a90-8d4e-04cc75f67746"/>
+</archimate:CompositionRelationship>

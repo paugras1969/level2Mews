@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ItemOfSupply"
+    id="eb792e3d-fc79-433c-bf3a-67ca625b98cb">
+  <properties
+      key="ID"
+      value="0080"/>
+</archimate:BusinessObject>

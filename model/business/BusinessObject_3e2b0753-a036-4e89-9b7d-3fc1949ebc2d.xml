@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CBRN"
+    id="3e2b0753-a036-4e89-9b7d-3fc1949ebc2d"
+    documentation="A CBRN marking is allocated to each compartment within a vessel or key external surfaces. The Chemical Biological Radiological Nuclear (CBRN) zonal marking logic is defined by the Navy to partition a vessel into damage control zones. "/>

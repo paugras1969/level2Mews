@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DigitalDocument"
+    id="e65247c2-c859-4f1e-a907-8e3dab5d0171">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_0f880ede-da0c-4cfd-bd34-2a52e85050f1.xml#0f880ede-da0c-4cfd-bd34-2a52e85050f1"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_a045dd57-e851-4f46-a50f-ab5b1121d2e6.xml#a045dd57-e851-4f46-a50f-ab5b1121d2e6"/>
+</archimate:AccessRelationship>

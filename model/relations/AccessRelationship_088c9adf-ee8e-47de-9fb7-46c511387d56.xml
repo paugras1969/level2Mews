@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PropertyValue..+5"
+    id="088c9adf-ee8e-47de-9fb7-46c511387d56"
+    documentation="PropertyValue,,PropertyValueNumeric,POropertyValueString, POropertyValueWithRange,POropertyValueWithTolerances">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_e92ccccd-0046-430c-a373-9fa1d73aae65.xml#e92ccccd-0046-430c-a373-9fa1d73aae65"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_3af0a5de-3561-446e-8a98-999bd410f8be.xml#3af0a5de-3561-446e-8a98-999bd410f8be"/>
+</archimate:AccessRelationship>

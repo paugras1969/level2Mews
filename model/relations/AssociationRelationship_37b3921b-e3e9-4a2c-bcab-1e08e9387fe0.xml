@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1>1 Xin"
+    id="37b3921b-e3e9-4a2c-bcab-1e08e9387fe0">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_d19773b8-9a9b-4462-a41a-23d25f07badc.xml#d19773b8-9a9b-4462-a41a-23d25f07badc"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_559a98ba-2692-46ec-9bc3-1ed84d48b829.xml#559a98ba-2692-46ec-9bc3-1ed84d48b829"/>
+</archimate:AssociationRelationship>

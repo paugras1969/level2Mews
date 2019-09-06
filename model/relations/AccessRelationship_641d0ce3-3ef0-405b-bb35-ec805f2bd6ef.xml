@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="deletion status"
+    id="641d0ce3-3ef0-405b-bb35-ec805f2bd6ef">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_13715767-f0db-4d7b-bd19-1ea61fb1fdd8.xml#13715767-f0db-4d7b-bd19-1ea61fb1fdd8"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_8eee2e53-63b0-4a5e-a447-d04a03a9534c.xml#8eee2e53-63b0-4a5e-a447-d04a03a9534c"/>
+</archimate:AccessRelationship>

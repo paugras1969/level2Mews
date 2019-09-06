@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SequenceNumber, RoleOf"
+    id="9d20b6b7-a645-451f-8994-b634f2436687">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_4b4baa15-fa9f-4d46-97c7-453b8ec6a7cf.xml#4b4baa15-fa9f-4d46-97c7-453b8ec6a7cf"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_00dfd366-1978-47b5-b83e-fdc1a706e8d5.xml#00dfd366-1978-47b5-b83e-fdc1a706e8d5"/>
+</archimate:AccessRelationship>

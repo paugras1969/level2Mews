@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ExportControlPolicy"
+    id="68d9bec0-f7b4-4f08-80d3-70b4bc2e0cb8">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_c14b1d73-04ad-429e-9801-b41972adb598.xml#c14b1d73-04ad-429e-9801-b41972adb598"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_aecf2bbb-44bd-4a90-8d4e-04cc75f67746.xml#aecf2bbb-44bd-4a90-8d4e-04cc75f67746"/>
+</archimate:CompositionRelationship>

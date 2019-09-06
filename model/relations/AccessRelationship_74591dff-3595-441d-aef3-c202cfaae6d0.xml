@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RequieredQty, IsConsumable, IsAlwaysRequiered"
+    id="74591dff-3595-441d-aef3-c202cfaae6d0">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_8209d4b8-6566-4c13-b7ef-d3ae3ac285f1.xml#8209d4b8-6566-4c13-b7ef-d3ae3ac285f1"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_05e61f97-d5ab-441a-9539-e802c38585c4.xml#05e61f97-d5ab-441a-9539-e802c38585c4"/>
+</archimate:AccessRelationship>

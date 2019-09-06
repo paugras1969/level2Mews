@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AA Welcome S3000L"
+    id="bb8a5b86-1951-4037-9c58-87e235d39333">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="4316af91-c9ee-45d7-8784-e430c5d17ab0">
+    <bounds
+        x="204"
+        y="60"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_94f0106e-eb2e-402c-8f3e-d76bd5ede60f.xml#94f0106e-eb2e-402c-8f3e-d76bd5ede60f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="6bc4a83d-efd1-4f4c-8738-8990352d116c">
+    <bounds
+        x="204"
+        y="156"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_795c7c20-56aa-45cb-b0cf-95608f329803.xml#795c7c20-56aa-45cb-b0cf-95608f329803"/>
+  </children>
+</archimate:ArchimateDiagramModel>

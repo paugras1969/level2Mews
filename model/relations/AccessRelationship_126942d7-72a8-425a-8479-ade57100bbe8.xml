@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="id, translation3D,rotation3D ,applicable"
+    id="126942d7-72a8-425a-8479-ade57100bbe8">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_b5c09237-2978-4087-9875-e5ea0401f5ac.xml#b5c09237-2978-4087-9875-e5ea0401f5ac"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_012990ba-7b33-4813-abae-348a45c817ec.xml#012990ba-7b33-4813-abae-348a45c817ec"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="idStirng"
+    id="4c5b4e9f-58af-4a54-a2fc-e5100532e8e5">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_1c44c5df-3ea7-400e-beeb-a50b98638f46.xml#1c44c5df-3ea7-400e-beeb-a50b98638f46"/>
+  <target
+      xsi:type="archimate:Meaning"
+      href="Meaning_acaf7cce-e1ab-4021-b914-ebc718e7759c.xml#acaf7cce-e1ab-4021-b914-ebc718e7759c"/>
+</archimate:AssociationRelationship>

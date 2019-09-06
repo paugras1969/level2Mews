@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organization, ,PersonOrganizationSelect"
+    id="436bbedb-369b-4ed7-8fdb-ef23e854a850">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_f50fd20e-545a-4447-80df-5218459fc5b6.xml#f50fd20e-545a-4447-80df-5218459fc5b6"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_6e42c391-74d3-4fac-bb76-ce6d6907558c.xml#6e42c391-74d3-4fac-bb76-ce6d6907558c"/>
+</archimate:AccessRelationship>

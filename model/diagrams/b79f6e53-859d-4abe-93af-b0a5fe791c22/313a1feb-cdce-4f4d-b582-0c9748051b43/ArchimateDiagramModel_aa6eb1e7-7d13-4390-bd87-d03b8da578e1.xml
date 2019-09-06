@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AA Welcome BAe"
+    id="aa6eb1e7-7d13-4390-bd87-d03b8da578e1">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="3a7c677b-53a4-4db2-a57a-90d067a762fb">
+    <bounds
+        x="236"
+        y="106"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_b69c642c-8d4d-4fac-93b3-122c75ec96a1.xml#b69c642c-8d4d-4fac-93b3-122c75ec96a1"/>
+  </children>
+</archimate:ArchimateDiagramModel>

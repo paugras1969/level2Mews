@@ -1,0 +1,17 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Requiered"
+    id="4b4baa15-fa9f-4d46-97c7-453b8ec6a7cf">
+  <properties/>
+  <properties
+      key="ID"
+      value="1"/>
+  <properties
+      key="Id"
+      value="1"/>
+  <properties
+      key="batch"
+      value="2"/>
+  <properties
+      key="id"/>
+</archimate:BusinessInterface>

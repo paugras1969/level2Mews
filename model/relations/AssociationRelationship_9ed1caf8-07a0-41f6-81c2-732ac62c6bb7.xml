@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="space, Collection Instance"
+    id="9ed1caf8-07a0-41f6-81c2-732ac62c6bb7">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_64e6edac-d94e-455f-9193-1ed614a7a948.xml#64e6edac-d94e-455f-9193-1ed614a7a948"/>
+  <target
+      xsi:type="archimate:Meaning"
+      href="Meaning_acaf7cce-e1ab-4021-b914-ebc718e7759c.xml#acaf7cce-e1ab-4021-b914-ebc718e7759c"/>
+</archimate:AssociationRelationship>
